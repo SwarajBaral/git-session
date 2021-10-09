@@ -1,7 +1,0 @@
-1. Hello everyone
-	- This is the first file of branch "branch1"
-	- This will be merged in the main branch.
-	- Its all good.
-	- h1 tag: modified header
-	- modified the body background
-	- modified the font style of 2nd section
